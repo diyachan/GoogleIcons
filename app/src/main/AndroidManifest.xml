@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="amirz.googleicons">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="diya.googleicons">
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher_icon_pack"
         android:label="@string/app_name"
         android:supportsRtl="true">
-        <activity android:name=".MainActivity">
+        <activity android:name=".MainActivity" android:exported="true">
             <intent-filter>
                 <action android:name="com.fede.launcher.THEME_ICONPACK" />
                 <action android:name="com.anddoes.launcher.THEME" />
