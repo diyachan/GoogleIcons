@@ -3,8 +3,6 @@ this is an attempt to somehow maintain the original GoogleIcons adaptive icon pa
 
 Icon pack works on most popular launchers (Nova, Lawnchair, hyperion, LineageOS' Trebuchet etc.) running on Android 8+; can't guarantee it'll work on OEM launchers that allows third-party icon packs
 
-If you kiinda like it, it's fine if you want [to donate](https://paypal.me/diyatan). Maybe I can put this on Play Store with the donation.
-
 ## Contributing
 by all means if you have issues and/or improvements to the pack please do a PR
 
