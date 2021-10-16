@@ -1,13 +1,13 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 29
+    compileSdkVersion 31
     defaultConfig {
-        applicationId "amirz.googleicons"
+        applicationId "diya.googleicons"
         minSdkVersion 21
-        targetSdkVersion 29
-        versionCode 11
-        versionName "v11"
+        targetSdkVersion 31
+        versionCode 1
+        versionName "one"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
