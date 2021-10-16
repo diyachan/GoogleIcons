@@ -1,4 +1,4 @@
-package amirz.googleicons;
+package diya.googleicons;
 
 import org.junit.Test;
 
